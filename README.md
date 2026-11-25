@@ -1,4 +1,4 @@
-# VIctory fork (work in progress)
+# VIctory fork
 
 A work-in-progress fork of [VIctory](https://github.com/Marvisak/VIctory), a
 compatibility layer that runs an Xbox Series title natively on Windows from
